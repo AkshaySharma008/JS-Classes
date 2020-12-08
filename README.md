@@ -13,7 +13,7 @@ This repo is for the purpose of learning the basics of JavaScript. It is made un
 ### Contributors
 
 * Satya Prakash - [satya9500](https://github.com/satya9500)
-* Akshay Sharma - [akshaysharmaad](https://github.com/AkshaySharma008)
+* Akshay Sharma - [AkshaySharma008](https://github.com/AkshaySharma008)
 * Akhil Nair - [Jedi18](https://github.com/Jedi18)
 * Rishav Sharma - [flarsu](https://github.com/flarsu)
 * Shailesh Kumar Sahu - [shellkore](https://github.com/shellkore)
